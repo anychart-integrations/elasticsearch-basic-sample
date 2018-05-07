@@ -1,0 +1,30 @@
+{
+  "name": "elasticsearch-template",
+  "version": "1.0.0",
+  "description": "Elasticsearch and AnyChart integration demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "homepage": "https://anychart.com",
+  "keywords": [
+    "anychart",
+    "anystock",
+    "anygantt",
+    "anymap",
+    "charts",
+    "javascript charts",
+    "ajax charts",
+    "plots",
+    "javascript",
+    "SVG",
+    "HTML5",
+    "elasticsearch"
+  ],
+  "author": "AnyChart <contact@anychart.com> (http://anychart.com)",
+  "dependencies": {
+    "elasticsearch": "^14.1.0",
+    "express": "^4.15.3"
+  }
+}
