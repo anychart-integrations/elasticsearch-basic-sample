@@ -1,6 +1,6 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
 # AnyChart Elasticsearch Integration
-This example shows how to use Anychart library with the search and analytics engine Ealsticsearch.
+This example presents to you how to use Anychart library with the search and analytics engine Ealsticsearch.
 
 ## Running
 
@@ -79,7 +79,7 @@ Search engine - [Elasticsearch](https://www.elastic.co/products/elasticsearch/)<
 
 ## License
 AnyChart Elasticksearch integration sample includes two parts:
-- Code of the integration sample that allows to use Javascript library (in this case, AnyChart) with Elastichsearch engine. You can use, edit, modify it, use it with other Javascript libraries without any restrictions. It is released under [Apache 2.0 License](https://github.com/anychart-integrations/python-django-mysql-template/blob/master/LICENSE).
+- Code of the integration sample that allows to use Javascript library (in this case, AnyChart) with Elastichsearch engine. You can use, edit, modify it, use it with other Javascript libraries without any restrictions. It is released under [Apache 2.0 License](https://github.com/anychart-integrations/elasticsearch-basic-sample/blob/master/LICENSE).
 - AnyChart JavaScript library. It is released under Commercial license. You can test this plugin with the trial version of AnyChart. Our trial version is not limited by time and doesn't contain any feature limitations. Check details [here](https://www.anychart.com/buy/).
 
 If you have any questions regarding licensing - please contact us. <sales@anychart.com>
