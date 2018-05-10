@@ -23,7 +23,7 @@ curl http://localhost:9200/
 
 Clone the repository from github.com:
 ```
-git clone git@github.com:anychart-integrations/elasticsearch-template.git
+git clone git@github.com:anychart-integrations/elasticsearch-basic-sample.git
 ```
 
 Navigate to the repository folder:
