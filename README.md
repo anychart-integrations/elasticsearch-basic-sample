@@ -28,7 +28,7 @@ git clone git@github.com:anychart-integrations/elasticsearch-basic-sample.git
 
 Navigate to the repository folder:
 ```
-cd elasticsearch-template
+cd elasticsearch-basic-sample
 ```
 
 Install dependencies:
